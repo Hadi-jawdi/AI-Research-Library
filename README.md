@@ -1,6 +1,6 @@
 # AI Research Library
 
- list of research papers on AGI, ASI, and AI Safety.
+ list of research papers on AGI, ASI, and SSI.
 
 ---
 
